@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raquelribas
-- 👀 I’m interested in ... Automation, Data Analysis
-- 🌱 I’m currently learning ... SQL
+- 👀 I’m interested in ... Data Analysis/modelling
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
